@@ -21,8 +21,8 @@ An awesome list of Julialang for digital humanities
 ## Data serialization and manipulation
 - [Serde.jl](https://github.com/bhftbootcamp/Serde.jl) : A library to (de)serialize data from and to various formats (JSON, TOML, XML, CSV, YAML, Query).
 - [CSV.jl](https://github.com/JuliaData/CSV.jl) : A package to read and write CSV files.
-- [JSON.jl](https://github.com/JuliaIO/JSON.jl) – A package to parse and print JSON data.
-- [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) – A library to manipulate tabular date, similar to [pandas](https://pandas.pydata.org/) in Python.
+- [JSON.jl](https://github.com/JuliaIO/JSON.jl) : A package to parse and print JSON data.
+- [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) : A library to manipulate tabular date, similar to [pandas](https://pandas.pydata.org/) in Python.
 
 ## Document conversion and transformation
 - [Pandoc.jl](https://github.com/kdheepak/Pandoc.jl)
@@ -35,7 +35,8 @@ An awesome list of Julialang for digital humanities
 - [Mustache.jl](https://github.com/jverzani/Mustache.jl) : The logic-less [mustache](https://mustache.github.io/) template system for Julia.
 - [OteraEngine.jl](https://github.com/MommaWatasu/OteraEngine.jl) : A template engine based on the [Jinja](https://jinja.palletsprojects.com) syntax.
 
-## Web apps
+## Static site generators and full-stack web Frameworks
+- [Franklin.jl](https://github.com/tlienart/Franklin.jl) : A static site generator.
 - [Genie.jl](https://github.com/GenieFramework/Genie.jl) :
 A complete framework to build web apps, APIs and interactive UIs.
 - [Oxygen.jl](https://github.com/OxygenFramework/Oxygen.jl) : A lightweight and easy to use framework to build web applications and APIs.
