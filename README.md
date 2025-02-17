@@ -18,6 +18,12 @@ An awesome list of Julialang for digital humanities
 
 - [MoJuWo](https://modernjuliaworkflows.org) : A series of blog posts on best practices for Julia development. Consider this a draft: once the posts are ready, we will submit them to the Julia language blog to make them easily discoverable.
 
+## Data serialization and manipulation
+- [Serde.jl](https://github.com/bhftbootcamp/Serde.jl) : A library to (de)serialize data from and to various formats (JSON, TOML, XML, CSV, YAML, Query).
+- [CSV.jl](https://github.com/JuliaData/CSV.jl) : A package to read and write CSV files.
+- [JSON.jl](https://github.com/JuliaIO/JSON.jl) – A package to parse and print JSON data.
+- [DataFrames.jl]() – A library to manipulate tabular date, similar to [pandas](https://pandas.pydata.org/) in Python.
+
 ## Document conversion and transformation
 - [Pandoc.jl](https://github.com/kdheepak/Pandoc.jl)
 
