@@ -3,6 +3,9 @@ An awesome list of Julialang for digital humanities
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+## Getting Started with Julia
+- Kamiński, Bogumił. « The Julia Express », 2021. https://github.com/bkamins/The-Julia-Express.
+
 ## Syllabus of interest
 
 - Altmeyer, Patrick, et Cameron Pfiffer. 2023. « Julia for Deep Learning ». 17 août 2023. https://book.deep-learning.club/.
@@ -23,7 +26,7 @@ An awesome list of Julialang for digital humanities
 - [Nakala.jl](https://github.com/sardinecan/Nakala.jl)
 
 ## Templating
-- [Mustache.jl](https://github.com/jverzani/Mustache.jl) the logic-less [mustache](https://mustache.github.io/) template system for Julia.
+- [Mustache.jl](https://github.com/jverzani/Mustache.jl) : The logic-less [mustache](https://mustache.github.io/) template system for Julia.
 - [OteraEngine.jl](https://github.com/MommaWatasu/OteraEngine.jl) : A template engine based on the [Jinja](https://jinja.palletsprojects.com) syntax.
 
 ## Web apps
