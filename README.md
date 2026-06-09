@@ -21,6 +21,7 @@ An awesome list of Julialang for digital humanities
 
 ## Books
 
+- Boyd, Stephen, et Lieven Vandenberghe. Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares. Cambridge University Press & Assessment, 2018. DOI:10.1017/9781108583664
 - Engheim, Erik. Julia as a Second Language. General Purpose Programming with a Taste of Data Science. Manning Publications, 2023. ISBN:978-1-61729-971-1
 - Lauwens, Ben, et Allen Downey. Think Julia. How to Think Like a Computer Scientist. O’Reilly Media, 2019. ISBN:978-1-4920-4503-8 <https://benlauwens.github.io/ThinkJulia.jl/latest/book.html>
 - Kamiński, Bogumił. Julia for Data Analysis. Manning, 2023. ISBN:978-1-63343-936-8
@@ -32,13 +33,13 @@ See <https://julialang.org/learning/books/> for a comprehensive list.
 ## Syllabus of interest
 
 - Altmeyer, Patrick, et Cameron Pfiffer. « Julia for Deep Learning ». 17 août 2023. <https://book.deep-learning.club/>
-
+- Brea, Johanni. MLCourse. 2021-2025. <https://github.com/jbrea/MLCourse>
 - Edelman, Alan, David P. Sanders, et Charles E. Leiserson. « Introduction to Computational Thinking ». MIT, 2024. <https://computationalthinking.mit.edu/Fall24/>
-
 - Hoffimann, Júlio. Geospatial Data Science with Julia. 2026. <https://juliaearth.github.io/geospatial-data-science-with-julia/>.
-
-- « Julia for Optimization and Learning ». 2025. <https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/dev/>
-
+- Czech Technical University in Prague. « Julia for Optimization and Learning ». 2025. <https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/dev/>
+- Lobianco, Antonello. Introduction to Scientific Programming and Machine Learning with Julia (SPMLJ). 2022-2024. <https://sylvaticus.github.io/SPMLJ/stable/>
+- Müller, Klaus-Robert. Julia for Machine Learning course (JuML). 2023-2026. <https://adrhill.github.io/julia-ml-course/>
+- Nam, Doan Thanh. Introduction to Statistical Learning with Julia. Jupyter Notebook. 12 février 2017, released 30 août 2023. <https://github.com/tndoan/ISLR.jl>.
 - Perla, Jesse, Thomas J. Sargent, et John Stachurski. Quantitative Economics with Julia. 2026. <https://julia.quantecon.org>
 
 
@@ -46,6 +47,12 @@ See <https://julialang.org/learning/books/> for a comprehensive list.
 
 - [Julia Official Website](https://julialang.org): The official website of the Julia programming language.
 - [Julia Documentation](https://docs.julialang.org): Official documentation for Julia programming language.
+- [Julia Cheatsheet](https://cheatsheet.juliadocs.org): The Fast Track to Julia. A quick and dirty overview of Julia 1.0.
+
+## Tooling
+- [Julia fo Visual Studio Code](https://www.julia-vscode.org): Julia for Visual Studio Code is a powerful, free Editor for the Julia language.
+- [Pluto.jl](https://plutojl.org): Simple, reactive programming environment for the Julia Language.
+- [Jupyter](https://jupyter.org): Free software, open standards, and web services for interactive computing across all programming languages. [Did you know what the “Ju” in Jupyter stood for? You probably never noticed.]
 
 
 ## Text analysis
