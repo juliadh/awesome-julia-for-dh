@@ -63,7 +63,6 @@ See <https://julialang.org/learning/books/> for a comprehensive list.
 ## GIS and geographical datascience
 
 
-
 ## Document conversion and transformation
 - [Pandoc.jl](https://github.com/kdheepak/Pandoc.jl)
 - [JuliaBooks](https://github.com/JuliaBooks): Create books with Julia.
@@ -75,7 +74,10 @@ See <https://julialang.org/learning/books/> for a comprehensive list.
 
 
 ## Static site generators and full-stack web Frameworks
+- [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl): A documentation generator for Julia.
 - [Franklin.jl](https://github.com/tlienart/Franklin.jl): A static site generator.
+- [Weave.jl](https://github.com/JunoLab/Weave.jl): Scientific reports/literate programming for Julia.
+- [Publish.jl](https://github.com/MichaelHatherly/Publish.jl): A universal document authoring package for Julia.
 - [Towsty](https://github.com/juliadh/TowSty.jl): TowSty is a webapp and static site generator for Stylo. It allows to deploy a research blog from a Stylo Workspace.
 - [Genie](https://genieframework.com) Genie is an open source framework with all you need to quickly build production-ready, data-centric web apps with Julia.
 A complete framework to build web apps, APIs and interactive UIs.
